@@ -2,7 +2,7 @@
 💍
 
 <!--
-**Furkan205061/furkan205061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Furkan305061/Furkan305061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
